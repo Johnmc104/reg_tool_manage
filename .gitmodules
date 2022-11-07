@@ -1,0 +1,6 @@
+[submodule "tool_html"]
+	path = tool_html
+	url = git@github.com:SystemRDL/PeakRDL-html.git
+[submodule "tool_uvm"]
+	path = tool_uvm
+	url = git@github.com:SystemRDL/PeakRDL-uvm.git
