@@ -4,3 +4,6 @@
 [submodule "tool_uvm"]
 	path = tool_uvm
 	url = git@github.com:SystemRDL/PeakRDL-uvm.git
+[submodule "tool_ipxact"]
+	path = tool_ipxact
+	url = git@github.com:SystemRDL/PeakRDL-ipxact.git
